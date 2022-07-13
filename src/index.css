@@ -1,0 +1,13 @@
+*{
+  font-family: roboto;
+  text-transform: capitalize;
+}
+.search{
+  outline: none;
+  border: 2px solid gray;
+  letter-spacing: 1px;
+  padding: 10px;
+  margin: 0px auto;
+  display: block;
+  width: 100%;
+}
